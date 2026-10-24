@@ -1,0 +1,7 @@
+[project]
+name = "genpark-dns-health-check-and-failover-traffic-director-skill"
+version = "1.0.0"
+description = "Multi-region DNS health probe evaluator, automated failover traffic director, and latency-based routing arbiter"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
